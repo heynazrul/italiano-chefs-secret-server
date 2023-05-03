@@ -2,28 +2,621 @@
   {
     "id": 1,
     "chef_name": "Enrique Olvera",
-    "chef_picture": "https://images.unsplash.com/photo-1579017331263-ef82f0bbc748?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
+    "chef_picture": "https://images.unsplash.com/photo-1578367015636-5ceda70b8069?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
     "bio": " Born in Mexico City, Enrique Olvera is a highly acclaimed chef known for his innovative take on Mexican cuisine. He is the owner of the famed Pujol restaurant in Mexico City, which is frequently ranked as one of the world's best restaurants.",
-    "experience": "16+",
-    "likes": 12000,
-    "num_recipes": 4
+    "experience": "16+ Years",
+    "likes": 600,
+    "num_recipes": 4,
+    "recipes": [
+      {
+        "recipe_name": "Margherita Pizza",
+        "recipe_picture": "https://images.unsplash.com/photo-1542282811-943ef1a977c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+        "ingredients": [
+          "1 pound pizza dough",
+          "1/2 cup tomato sauce",
+          "8 oz. fresh mozzarella cheese, sliced",
+          "10-12 fresh basil leaves",
+          "2 cloves garlic, minced",
+          "1/4 cup olive oil",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": [
+          "Preheat the oven to 450°F (232°C).",
+          "Roll out the pizza dough on a floured surface until it's the desired size and shape.",
+          "Spread the tomato sauce evenly over the pizza dough, leaving a small border around the edges.",
+          "Arrange the sliced mozzarella cheese over the tomato sauce.",
+          "Sprinkle the minced garlic over the cheese.",
+          "Drizzle the olive oil over the pizza.",
+          "Season with salt and pepper to taste.",
+          "Bake the pizza for 10-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+          "Remove the pizza from the oven and top with fresh basil leaves.",
+          "Slice and serve hot."
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "recipe_picture": "https://images.unsplash.com/photo-1574969903809-3f7a1668ceb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "ingredients": [
+          "1 pound spaghetti",
+          "8 oz. pancetta or bacon, diced",
+          "4 large eggs",
+          "1 cup freshly grated Pecorino Romano cheese",
+          "1/2 cup freshly grated Parmigiano-Reggiano cheese",
+          "Salt and black pepper to taste"
+        ],
+        "cooking_method": [
+          "Bring a large pot of salted water to a boil. Add the spaghetti and cook until al dente, about 8-10 minutes.",
+          "While the spaghetti is cooking, heat a large skillet over medium heat. Add the pancetta or bacon and cook until crisp and browned, about 8-10 minutes.",
+          "In a medium bowl, beat the eggs with the grated Pecorino Romano and Parmigiano-Reggiano cheeses until well combined.",
+          "When the spaghetti is done cooking, reserve 1 cup of the pasta water and drain the spaghetti.",
+          "Add the spaghetti to the skillet with the pancetta or bacon and toss to coat in the fat.",
+          "Remove the skillet from the heat and let it cool for 1-2 minutes."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Tiramisu",
+        "recipe_picture": "https://images.unsplash.com/photo-1631206753348-db44968fd440?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80",
+        "ingredients": [
+          "6 large egg yolks",
+          "3/4 cup granulated sugar, divided",
+          "2/3 cup whole milk",
+          "1 1/4 cups heavy cream",
+          "1/2 teaspoon vanilla extract",
+          "1 pound mascarpone cheese",
+          "1/4 cup Marsala wine"
+        ],
+        "cooking_method": [
+          "In a large bowl, beat the egg yolks with 1/2 cup of the granulated sugar until pale and creamy.",
+          "In a medium saucepan, heat the milk until it comes to a simmer.",
+          "Slowly whisk the hot milk into the egg mixture, then pour the mixture back into the saucepan.",
+          "Cook the mixture over medium-low heat, stirring constantly, until it thickens and coats the back of a spoon, about 5-8 minutes.",
+          "Remove the saucepan from the heat and let the mixture cool to room temperature.",
+          "In a separate large bowl, beat the heavy cream, vanilla extract, and remaining 1/4 cup of granulated sugar until soft peaks form."
+        ],
+        "rating": 4
+      }
+    ]
   },
+
   {
     "id": 2,
-    "chef_name": "Saiffa",
-    "chef_picture": "https://images.unsplash.com/photo-1579017331263-ef82f0bbc748?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
-    "bio": " Born in Mexico City, Enrique Olvera is a highly acclaimed chef known for his innovative take on Mexican cuisine. He is the owner of the famed Pujol restaurant in Mexico City, which is frequently ranked as one of the world's best restaurants.",
-    "experience": "16+",
-    "likes": 12000,
-    "num_recipes": 4
+    "chef_name": "Massimo Bottura",
+    "chef_picture": "https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "bio": "Massimo Bottura is an Italian restaurateur and chef patron of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy. He is known for his avant-garde style of cooking, blending tradition and innovation to create unique dishes.",
+    "experience": "30+ Years",
+    "likes": 1500,
+    "num_recipes": 3,
+    "recipes": [
+      {
+        "recipe_name": "Tagliatelle al ragù",
+        "recipe_picture": "https://images.unsplash.com/photo-1603570416072-84068a0f1358?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "ingredients": [
+          "1 lb. tagliatelle pasta",
+          "1/2 lb. ground beef",
+          "1/2 lb. ground pork",
+          "1/2 cup diced onion",
+          "1/2 cup diced carrot",
+          "1/2 cup diced celery",
+          "1/2 cup tomato paste"
+        ],
+        "cooking_method": [
+          "Heat the olive oil in a large skillet over medium heat.",
+          "Add the onion, carrot, and celery and cook until the vegetables are softened, about 10 minutes.",
+          "Add the ground beef and pork to the skillet and cook until browned and no longer pink, about 15 minutes.",
+          "Add the garlic to the skillet and cook for an additional 1-2 minutes.",
+          "Add the tomato paste, red wine, and beef broth to the skillet and stir to combine.",
+          "Reduce the heat to low and let the sauce simmer for 1-2 hours, stirring occasionally.",
+          "Cook the tagliatelle pasta according to package directions until al dente.",
+          "Drain the pasta and add it to the skillet with the ragù.",
+          "Toss the pasta with the ragù until it is coated in the sauce.",
+          "Season with salt and pepper to taste.",
+          "Serve hot with grated Parmigiano-Reggiano cheese."
+        ],
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Spaghetti alla carbonara",
+        "recipe_picture": "https://images.unsplash.com/photo-1609690963718-0b55905aef78?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=999&q=80",
+        "ingredients": [
+          "1 lb. spaghetti",
+          "4 oz. pancetta, diced",
+          "4 oz. Pecorino Romano cheese, grated",
+          "4 large eggs",
+          "2 cloves garlic, minced",
+          "1/4 tsp. black pepper",
+          "Salt to taste"
+        ],
+        "cooking_method": [
+          "Bring a large pot of salted water to a boil.",
+          "Add the spaghetti to the boiling water and cook until al dente, about 8-10 minutes.",
+          "While the spaghetti is cooking, heat a large skillet over medium heat.",
+          "Add the diced pancetta to the skillet and cook until crispy, about 5-7 minutes.",
+          "Add the minced garlic to the skillet and cook for an additional 1-2 minutes.",
+          "In a small bowl, whisk together the eggs, grated Pecorino Romano cheese, black pepper, and a pinch of salt.",
+          "When the spaghetti is done, reserve 1 cup of the pasta cooking water and drain the rest.",
+          "Add the drained spaghetti to the skillet with the pancetta and garlic, and toss to combine."
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Caprese Salad",
+        "recipe_picture": "https://images.unsplash.com/photo-1518133683791-0b9de5a055f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "ingredients": [
+          "4 large tomatoes",
+          "12 oz. fresh mozzarella cheese",
+          "1 bunch fresh basil leaves",
+          "1/4 cup extra-virgin olive oil",
+          "2 tbsp. balsamic vinegar",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": [
+          "Slice the tomatoes and mozzarella cheese into 1/4-inch thick slices.",
+          "Arrange the tomato and mozzarella slices on a serving platter, alternating them.",
+          "Tear the basil leaves into small pieces and sprinkle them over the tomato and mozzarella slices.",
+          "In a small bowl, whisk together the olive oil and balsamic vinegar.",
+          "Drizzle the dressing over the salad.",
+          "Season with salt and pepper to taste.",
+          "Serve immediately."
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Spicy Garlic Shrimp",
+        "recipe_picture": "https://images.unsplash.com/photo-1648421331147-9fcfab29536e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+        "ingredients": [
+          "1 lb. large shrimp, peeled and deveined",
+          "3 cloves garlic, minced",
+          "2 tbsp. olive oil",
+          "1/2 tsp. red pepper flakes",
+          "1/4 tsp. salt",
+          "1/4 tsp. black pepper"
+        ],
+        "cooking_method": [
+          "Heat the olive oil in a large skillet over medium-high heat.",
+          "Add the garlic and red pepper flakes to the skillet and cook for 30 seconds, or until fragrant.",
+          "Add the shrimp to the skillet and sprinkle with salt and black pepper.",
+          "Cook the shrimp for 2-3 minutes per side, or until pink and cooked through.",
+          "Remove the shrimp from the skillet and set aside.",
+          "Add the white wine and lemon juice to the skillet and bring to a boil, scraping up any browned bits from the bottom of the skillet.",
+          "Reduce the heat to medium and let the sauce simmer for 2-3 minutes, or until slightly thickened.",
+          "Add the butter to the skillet and stir until melted and well combined.",
+          "Return the shrimp to the skillet and toss to coat in the sauce.",
+          "Sprinkle with chopped parsley and serve hot."
+        ],
+        "rating": 4.3
+      }
+    ]
   },
   {
     "id": 3,
-    "chef_name": "Jason Brew",
-    "chef_picture": "https://images.unsplash.com/photo-1579017331263-ef82f0bbc748?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
-    "bio": " Born in Mexico City, Enrique Olvera is a highly acclaimed chef known for his innovative take on Mexican cuisine. He is the owner of the famed Pujol restaurant in Mexico City, which is frequently ranked as one of the world's best restaurants.",
-    "experience": "3+ years",
-    "likes": 12000,
-    "num_recipes": 4
+    "chef_name": "Gennaro Contaldo",
+    "chef_picture": "https://images.pexels.com/photos/3770002/pexels-photo-3770002.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "bio": "Gennaro Contaldo is a renowned Italian chef and restaurateur, based in London. He is widely known for his passion for Italian cuisine, and for his longstanding collaboration with celebrity chef Jamie Oliver. He has authored several cookbooks and hosted various TV shows, popularizing Italian cooking across the world.",
+    "experience": "25+ Years",
+    "likes": 2500,
+    "num_recipes": 5,
+    "recipes": [
+      {
+        "recipe_name": "Tagliatelle al ragù",
+        "recipe_picture": "https://images.unsplash.com/photo-1603570416072-84068a0f1358?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "ingredients": [
+          "1 lb. tagliatelle pasta",
+          "1/2 lb. ground beef",
+          "1/2 lb. ground pork",
+          "1/2 cup diced onion",
+          "1/2 cup diced carrot",
+          "1/2 cup diced celery",
+          "1/2 cup tomato paste"
+        ],
+        "cooking_method": [
+          "Heat the olive oil in a large skillet over medium heat.",
+          "Add the onion, carrot, and celery and cook until the vegetables are softened, about 10 minutes.",
+          "Add the ground beef and pork to the skillet and cook until browned and no longer pink, about 15 minutes.",
+          "Add the garlic to the skillet and cook for an additional 1-2 minutes.",
+          "Add the tomato paste, red wine, and beef broth to the skillet and stir to combine.",
+          "Reduce the heat to low and let the sauce simmer for 1-2 hours, stirring occasionally.",
+          "Cook the tagliatelle pasta according to package directions until al dente.",
+          "Drain the pasta and add it to the skillet with the ragù.",
+          "Toss the pasta with the ragù until it is coated in the sauce.",
+          "Season with salt and pepper to taste.",
+          "Serve hot with grated Parmigiano-Reggiano cheese."
+        ],
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Pesto alla Genovese",
+        "recipe_picture": "https://images.unsplash.com/photo-1620491994410-df56c39cb5c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+        "ingredients": [
+          "2 cups fresh basil leaves, packed",
+          "1/2 cup grated Parmigiano-Reggiano cheese",
+          "1/2 cup extra-virgin olive oil",
+          "1/3 cup pine nuts",
+          "3 cloves garlic, minced",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": [
+          "In a food processor, combine the basil leaves, Parmigiano-Reggiano cheese, pine nuts, and garlic.",
+          "Process the ingredients until they are finely chopped.",
+          "With the food processor running, slowly add the olive oil in a steady stream until the mixture is smooth.",
+          "Season the pesto with salt and pepper to taste.",
+          "Serve over cooked pasta, grilled meats, or vegetables."
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Penne all'arrabbiata",
+        "recipe_picture": "https://images.unsplash.com/photo-1673081849734-98f0969d436b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80",
+        "ingredients": [
+          "1 lb. penne pasta",
+          "3 cloves garlic, minced",
+          "1/4 cup olive oil",
+          "1/4 cup chopped fresh parsley",
+          "1/4 cup chopped fresh basil",
+          "1/2 tsp. red pepper flakes",
+          "1 can (28 oz.) crushed tomatoes",
+          "Salt and pepper to taste",
+          "Grated Pecorino Romano cheese, for serving"
+        ],
+        "cooking_method": [
+          "Cook the penne pasta according to package directions until al dente.",
+          "While the pasta cooks, heat the olive oil in a large skillet over medium heat.",
+          "Add the minced garlic and red pepper flakes to the skillet and cook for 1-2 minutes, until fragrant.",
+          "Add the crushed tomatoes to the skillet and stir to combine.",
+          "Reduce the heat to low and let the sauce simmer for 10-15 minutes, stirring occasionally.",
+          "Add the chopped parsley and basil to the sauce and stir to combine.",
+          "Season the sauce with salt and pepper to taste.",
+          "Drain the cooked pasta and add it to the skillet with the sauce.",
+          "Toss the pasta with the sauce until it is evenly coated.",
+          "Serve hot with grated Pecorino Romano cheese."
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Pesto alla Genovese",
+        "recipe_picture": "https://images.unsplash.com/photo-1651551768674-2606ed057e12?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "ingredients": [
+          "2 cups fresh basil leaves, packed",
+          "1/2 cup extra-virgin olive oil",
+          "1/3 cup pine nuts",
+          "3 garlic cloves, minced",
+          "1/2 cup freshly grated Parmesan cheese",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking_method": [
+          "In a food processor, pulse the basil, pine nuts, and garlic until coarsely chopped.",
+          "Add the Parmesan cheese and pulse again until well combined.",
+          "With the food processor running, slowly pour in the olive oil until the pesto is smooth and creamy.",
+          "Season the pesto with salt and pepper to taste.",
+          "Serve over pasta, as a dip for bread, or use it as a sauce for pizza or grilled chicken."
+        ],
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_name": "Carlo Cracco",
+    "chef_picture": "https://images.pexels.com/photos/3785718/pexels-photo-3785718.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "bio": "Carlo Cracco is an Italian chef and television personality. He is the owner of Ristorante Cracco in Milan, which has been awarded two Michelin stars. Cracco is known for his innovative approach to Italian cuisine, using unusual combinations of ingredients and techniques to create unique dishes.",
+    "experience": "25+ Years",
+    "likes": 1800,
+    "num_recipes": 2,
+    "recipes": [
+      {
+        "recipe_name": "Tagliatelle al ragù",
+        "recipe_picture": "https://images.unsplash.com/photo-1603570416072-84068a0f1358?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "ingredients": [
+          "1 lb. tagliatelle pasta",
+          "1/2 lb. ground beef",
+          "1/2 lb. ground pork",
+          "1/2 cup diced onion",
+          "1/2 cup diced carrot",
+          "1/2 cup diced celery",
+          "1/2 cup tomato paste"
+        ],
+        "cooking_method": [
+          "Heat the olive oil in a large skillet over medium heat.",
+          "Add the onion, carrot, and celery and cook until the vegetables are softened, about 10 minutes.",
+          "Add the ground beef and pork to the skillet and cook until browned and no longer pink, about 15 minutes.",
+          "Add the garlic to the skillet and cook for an additional 1-2 minutes.",
+          "Add the tomato paste, red wine, and beef broth to the skillet and stir to combine.",
+          "Reduce the heat to low and let the sauce simmer for 1-2 hours, stirring occasionally.",
+          "Cook the tagliatelle pasta according to package directions until al dente.",
+          "Drain the pasta and add it to the skillet with the ragù.",
+          "Toss the pasta with the ragù until it is coated in the sauce.",
+          "Season with salt and pepper to taste.",
+          "Serve hot with grated Parmigiano-Reggiano cheese."
+        ],
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Bruschetta with Tomato and Basil",
+        "recipe_picture": "https://images.pexels.com/photos/5639411/pexels-photo-5639411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "ingredients": [
+          "1 baguette, sliced",
+          "4 ripe tomatoes, diced",
+          "2 cloves garlic, minced",
+          "1/4 cup fresh basil, chopped",
+          "1/4 cup extra-virgin olive oil",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": [
+          "Preheat the oven to 375°F (190°C).",
+          "Arrange the baguette slices on a baking sheet and brush with olive oil.",
+          "Bake in the preheated oven for 8-10 minutes, or until the bread is toasted and lightly browned.",
+          "In a bowl, combine the diced tomatoes, minced garlic, chopped basil, olive oil, salt, and pepper.",
+          "Spoon the tomato mixture onto the toasted baguette slices.",
+          "Serve immediately."
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Chicken Parmesan",
+        "recipe_picture": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "1 cup Italian seasoned breadcrumbs",
+          "1/2 cup grated Parmesan cheese",
+          "2 eggs, beaten",
+          "2 cups marinara sauce",
+          "1/2 cup shredded mozzarella cheese",
+          "1/4 cup chopped fresh basil leaves",
+          "1/4 cup olive oil",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": [
+          "Preheat oven to 350°F.",
+          "Mix together the breadcrumbs and Parmesan cheese in a shallow dish.",
+          "Dip each chicken breast in the beaten eggs and coat well with the breadcrumb mixture.",
+          "Heat the olive oil in a large skillet over medium heat. Add the chicken breasts and cook until golden brown, about 2-3 minutes per side.",
+          "Transfer the chicken breasts to a baking dish and top each one with a spoonful of marinara sauce.",
+          "Sprinkle the shredded mozzarella cheese over the top of each chicken breast.",
+          "Bake the chicken Parmesan in the oven for 25-30 minutes, until the cheese is melted and bubbly and the chicken is cooked through.",
+          "Garnish with chopped fresh basil leaves and serve hot."
+        ],
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_name": "Enrico Crippa",
+    "chef_picture": "https://images.pexels.com/photos/8629121/pexels-photo-8629121.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "bio": "Enrico Crippa is an Italian chef and the owner of Piazza Duomo, a three-Michelin-star restaurant in Alba, Italy. He is known for his focus on seasonal and local ingredients, as well as his inventive use of flavors and textures.",
+    "experience": "20+ Years",
+    "likes": 2200,
+    "num_recipes": 4,
+    "recipes": [
+      {
+        "recipe_name": "Chicken Parmesan",
+        "recipe_picture": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "1 cup Italian seasoned breadcrumbs",
+          "1/2 cup grated Parmesan cheese",
+          "2 eggs, beaten",
+          "2 cups marinara sauce",
+          "1/2 cup shredded mozzarella cheese",
+          "1/4 cup chopped fresh basil leaves",
+          "1/4 cup olive oil",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": [
+          "Preheat oven to 350°F.",
+          "Mix together the breadcrumbs and Parmesan cheese in a shallow dish.",
+          "Dip each chicken breast in the beaten eggs and coat well with the breadcrumb mixture.",
+          "Heat the olive oil in a large skillet over medium heat. Add the chicken breasts and cook until golden brown, about 2-3 minutes per side.",
+          "Transfer the chicken breasts to a baking dish and top each one with a spoonful of marinara sauce.",
+          "Sprinkle the shredded mozzarella cheese over the top of each chicken breast.",
+          "Bake the chicken Parmesan in the oven for 25-30 minutes, until the cheese is melted and bubbly and the chicken is cooked through.",
+          "Garnish with chopped fresh basil leaves and serve hot."
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "recipe_picture": "https://images.unsplash.com/photo-1574969903809-3f7a1668ceb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "ingredients": [
+          "1 pound spaghetti",
+          "8 oz. pancetta or bacon, diced",
+          "4 large eggs",
+          "1 cup freshly grated Pecorino Romano cheese",
+          "1/2 cup freshly grated Parmigiano-Reggiano cheese",
+          "Salt and black pepper to taste"
+        ],
+        "cooking_method": [
+          "Bring a large pot of salted water to a boil. Add the spaghetti and cook until al dente, about 8-10 minutes.",
+          "While the spaghetti is cooking, heat a large skillet over medium heat. Add the pancetta or bacon and cook until crisp and browned, about 8-10 minutes.",
+          "In a medium bowl, beat the eggs with the grated Pecorino Romano and Parmigiano-Reggiano cheeses until well combined.",
+          "When the spaghetti is done cooking, reserve 1 cup of the pasta water and drain the spaghetti.",
+          "Add the spaghetti to the skillet with the pancetta or bacon and toss to coat in the fat.",
+          "Remove the skillet from the heat and let it cool for 1-2 minutes."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Spaghetti alla carbonara",
+        "recipe_picture": "https://images.unsplash.com/photo-1609690963718-0b55905aef78?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=999&q=80",
+        "ingredients": [
+          "1 lb. spaghetti",
+          "4 oz. pancetta, diced",
+          "4 oz. Pecorino Romano cheese, grated",
+          "4 large eggs",
+          "2 cloves garlic, minced",
+          "1/4 tsp. black pepper",
+          "Salt to taste"
+        ],
+        "cooking_method": [
+          "Bring a large pot of salted water to a boil.",
+          "Add the spaghetti to the boiling water and cook until al dente, about 8-10 minutes.",
+          "While the spaghetti is cooking, heat a large skillet over medium heat.",
+          "Add the diced pancetta to the skillet and cook until crispy, about 5-7 minutes.",
+          "Add the minced garlic to the skillet and cook for an additional 1-2 minutes.",
+          "In a small bowl, whisk together the eggs, grated Pecorino Romano cheese, black pepper, and a pinch of salt.",
+          "When the spaghetti is done, reserve 1 cup of the pasta cooking water and drain the rest.",
+          "Add the drained spaghetti to the skillet with the pancetta and garlic, and toss to combine."
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Tiramisu",
+        "recipe_picture": "https://images.unsplash.com/photo-1631206753348-db44968fd440?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80",
+        "ingredients": [
+          "6 large egg yolks",
+          "3/4 cup granulated sugar, divided",
+          "2/3 cup whole milk",
+          "1 1/4 cups heavy cream",
+          "1/2 teaspoon vanilla extract",
+          "1 pound mascarpone cheese",
+          "1/4 cup Marsala wine"
+        ],
+        "cooking_method": [
+          "In a large bowl, beat the egg yolks with 1/2 cup of the granulated sugar until pale and creamy.",
+          "In a medium saucepan, heat the milk until it comes to a simmer.",
+          "Slowly whisk the hot milk into the egg mixture, then pour the mixture back into the saucepan.",
+          "Cook the mixture over medium-low heat, stirring constantly, until it thickens and coats the back of a spoon, about 5-8 minutes.",
+          "Remove the saucepan from the heat and let the mixture cool to room temperature.",
+          "In a separate large bowl, beat the heavy cream, vanilla extract, and remaining 1/4 cup of granulated sugar until soft peaks form."
+        ],
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_name": "Gualtiero Marchesi",
+    "chef_picture": "https://images.pexels.com/photos/5779821/pexels-photo-5779821.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "bio": "Gualtiero Marchesi was an Italian chef and the founder of modern Italian cuisine. He was the first Italian chef to be awarded three Michelin stars, and his restaurant, Gualtiero Marchesi di San Pietro all'Orto, was a destination for food lovers from all over the world. Marchesi was known for his meticulous attention to detail and his willingness to experiment with new techniques and ingredients.",
+    "experience": "40+ Years",
+    "likes": 3500,
+    "num_recipes": 5,
+    "recipes": [
+      {
+        "recipe_name": "Tagliatelle al ragù",
+        "recipe_picture": "https://images.unsplash.com/photo-1603570416072-84068a0f1358?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "ingredients": [
+          "1 lb. tagliatelle pasta",
+          "1/2 lb. ground beef",
+          "1/2 lb. ground pork",
+          "1/2 cup diced onion",
+          "1/2 cup diced carrot",
+          "1/2 cup diced celery",
+          "1/2 cup tomato paste"
+        ],
+        "cooking_method": [
+          "Heat the olive oil in a large skillet over medium heat.",
+          "Add the onion, carrot, and celery and cook until the vegetables are softened, about 10 minutes.",
+          "Add the ground beef and pork to the skillet and cook until browned and no longer pink, about 15 minutes.",
+          "Add the garlic to the skillet and cook for an additional 1-2 minutes.",
+          "Add the tomato paste, red wine, and beef broth to the skillet and stir to combine.",
+          "Reduce the heat to low and let the sauce simmer for 1-2 hours, stirring occasionally.",
+          "Cook the tagliatelle pasta according to package directions until al dente.",
+          "Drain the pasta and add it to the skillet with the ragù.",
+          "Toss the pasta with the ragù until it is coated in the sauce.",
+          "Season with salt and pepper to taste.",
+          "Serve hot with grated Parmigiano-Reggiano cheese."
+        ],
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Spaghetti alla carbonara",
+        "recipe_picture": "https://images.unsplash.com/photo-1609690963718-0b55905aef78?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=999&q=80",
+        "ingredients": [
+          "1 lb. spaghetti",
+          "4 oz. pancetta, diced",
+          "4 oz. Pecorino Romano cheese, grated",
+          "4 large eggs",
+          "2 cloves garlic, minced",
+          "1/4 tsp. black pepper",
+          "Salt to taste"
+        ],
+        "cooking_method": [
+          "Bring a large pot of salted water to a boil.",
+          "Add the spaghetti to the boiling water and cook until al dente, about 8-10 minutes.",
+          "While the spaghetti is cooking, heat a large skillet over medium heat.",
+          "Add the diced pancetta to the skillet and cook until crispy, about 5-7 minutes.",
+          "Add the minced garlic to the skillet and cook for an additional 1-2 minutes.",
+          "In a small bowl, whisk together the eggs, grated Pecorino Romano cheese, black pepper, and a pinch of salt.",
+          "When the spaghetti is done, reserve 1 cup of the pasta cooking water and drain the rest.",
+          "Add the drained spaghetti to the skillet with the pancetta and garlic, and toss to combine."
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "recipe_picture": "https://images.unsplash.com/photo-1574969903809-3f7a1668ceb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "ingredients": [
+          "1 pound spaghetti",
+          "8 oz. pancetta or bacon, diced",
+          "4 large eggs",
+          "1 cup freshly grated Pecorino Romano cheese",
+          "1/2 cup freshly grated Parmigiano-Reggiano cheese",
+          "Salt and black pepper to taste"
+        ],
+        "cooking_method": [
+          "Bring a large pot of salted water to a boil. Add the spaghetti and cook until al dente, about 8-10 minutes.",
+          "While the spaghetti is cooking, heat a large skillet over medium heat. Add the pancetta or bacon and cook until crisp and browned, about 8-10 minutes.",
+          "In a medium bowl, beat the eggs with the grated Pecorino Romano and Parmigiano-Reggiano cheeses until well combined.",
+          "When the spaghetti is done cooking, reserve 1 cup of the pasta water and drain the spaghetti.",
+          "Add the spaghetti to the skillet with the pancetta or bacon and toss to coat in the fat.",
+          "Remove the skillet from the heat and let it cool for 1-2 minutes."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Margherita Pizza",
+        "recipe_picture": "https://images.unsplash.com/photo-1542282811-943ef1a977c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+        "ingredients": [
+          "1 pound pizza dough",
+          "1/2 cup tomato sauce",
+          "8 oz. fresh mozzarella cheese, sliced",
+          "10-12 fresh basil leaves",
+          "2 cloves garlic, minced",
+          "1/4 cup olive oil",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": [
+          "Preheat the oven to 450°F (232°C).",
+          "Roll out the pizza dough on a floured surface until it's the desired size and shape.",
+          "Spread the tomato sauce evenly over the pizza dough, leaving a small border around the edges.",
+          "Arrange the sliced mozzarella cheese over the tomato sauce.",
+          "Sprinkle the minced garlic over the cheese.",
+          "Drizzle the olive oil over the pizza.",
+          "Season with salt and pepper to taste.",
+          "Bake the pizza for 10-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+          "Remove the pizza from the oven and top with fresh basil leaves.",
+          "Slice and serve hot."
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Chicken Parmesan",
+        "recipe_picture": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "1 cup Italian seasoned breadcrumbs",
+          "1/2 cup grated Parmesan cheese",
+          "2 eggs, beaten",
+          "2 cups marinara sauce",
+          "1/2 cup shredded mozzarella cheese",
+          "1/4 cup chopped fresh basil leaves",
+          "1/4 cup olive oil",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": [
+          "Preheat oven to 350°F.",
+          "Mix together the breadcrumbs and Parmesan cheese in a shallow dish.",
+          "Dip each chicken breast in the beaten eggs and coat well with the breadcrumb mixture.",
+          "Heat the olive oil in a large skillet over medium heat. Add the chicken breasts and cook until golden brown, about 2-3 minutes per side.",
+          "Transfer the chicken breasts to a baking dish and top each one with a spoonful of marinara sauce.",
+          "Sprinkle the shredded mozzarella cheese over the top of each chicken breast.",
+          "Bake the chicken Parmesan in the oven for 25-30 minutes, until the cheese is melted and bubbly and the chicken is cooked through.",
+          "Garnish with chopped fresh basil leaves and serve hot."
+        ],
+        "rating": 4.8
+      }
+    ]
   }
 ]
